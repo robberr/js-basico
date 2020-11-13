@@ -1,0 +1,16 @@
+{
+  "name": "js-basico",
+  "version": "1.0.0",
+  "description": "js-basico",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon && index.js"
+  },
+
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
